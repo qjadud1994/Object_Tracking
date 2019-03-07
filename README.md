@@ -21,7 +21,7 @@
 | [Detection- and Trajectory-Level Exclusion in Multiple Object Tracking](http://openaccess.thecvf.com/content_cvpr_2013/papers/Milan_Detection-_and_Trajectory-Level_2013_CVPR_paper.pdf) | CVPR2013   |
 | [Bayesian Multi-object Tracking Using Motion Context from Multiple Objects](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7045866) |  2015 IEEE Winter Conference on Applications of Computer Vision  |
 | [Online Domain Adaptation for Multi-Object Tracking](https://arxiv.org/pdf/1508.00776.pdf) |BMVC2015    |
-|--------------------|--------------------------------------------------|
+|  |  |
 | PEDESTRIAN | from KITTI |
 | [Behavioral Pedestrian Tracking Using a Camera and LiDAR Sensors on a Moving Vehicle](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC6359120&blobtype=pdf) | Sensors 2019   |
 |  |  |
@@ -46,6 +46,20 @@
 | []()   |   |
 
 #### Evaluation Measurews
-|       Paper        |Description                                       |
-|--------------------|--------------------------------------------------|
+|    Measure     | Perfect    |  Description |
+|----------------|------------| ------------ |
+|  Avg Rank | 1 | 	This is the rank of each tracker averaged over all present evaluation measures. |
+| MOTA  | 100%   | Multiple Object Tracking Accuracy [1]. This measure combines three error sources: false positives, missed targets and identity switches.   |
+| MOTP  | 100%   | Multiple Object Tracking Precision [1]. The misalignment between the annotated and the predicted bounding boxes.  |
+| IDF1  | 100%   | ID F1 Score [2]. The ratio of correctly identified detections over the average number of ground-truth and computed detections.  |
+| FAF  | 0   | The average number of false alarms per frame.  |
+| MT  | 100%   | Mostly tracked targets. The ratio of ground-truth trajectories that are covered by a track hypothesis for at least 80% of their respective life span.  |
+| ML  | 0%   | 	Mostly lost targets. The ratio of ground-truth trajectories that are covered by a track hypothesis for at most 20% of their respective life span.  |
+| FP  | 0   | 	The total number of false positives.  |
+| FN  | 0   | The total number of false negatives (missed targets).  |
+| ID Sw.  | 0   | The total number of identity switches. Please note that we follow the stricter definition of identity switches as described in [3].  |
+| Frag  | 0   | The total number of times a trajectory is fragmented (i.e. interrupted during tracking).  |
+| Hz  | Inf   | Processing speed (in frames per second excluding the detector) on the benchmark.  |
+
+
 
