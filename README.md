@@ -66,13 +66,12 @@
 |  | from arxiv |
 |  [Non-rigid Object Tracking via Deep Multi-scale Spatial-temporal Discriminative Saliency Maps](https://arxiv.org/pdf/1802.07957v2.pdf)  |    |
 |  [End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning](https://arxiv.org/pdf/1808.03405v2.pdf)   |    |
-|  [Handcrafted and Deep Trackers: Recent Visual Object Tracking Approaches and Trends](https://arxiv.org/pdf/1812.07368v2.pdf)   |    |
 |  [TrackNet: Simultaneous Object Detection and Tracking and Its Application in Traffic Video Analysis](https://arxiv.org/pdf/1902.01466v1.pdf)   |    |
 |  [MOANA: An Online Learned Adaptive Appearance Model for Robust Multiple Object Tracking in 3D](https://arxiv.org/ftp/arxiv/papers/1901/1901.02626.pdf)   |    |
 |  [Fast CNN-Based Object Tracking Using Localization Layers and Deep Features Interpolation](https://arxiv.org/ftp/arxiv/papers/1901/1901.02620.pdf)   |    |
 |  [Long-Term Visual Object Tracking Benchmark](https://arxiv.org/pdf/1712.01358v4.pdf)   |    |
 |  [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://arxiv.org/pdf/1812.05050v1.pdf)   |    |
-|  []()   |    |
+|  [TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild](http://openaccess.thecvf.com/content_ECCV_2018/papers/Matthias_Muller_TrackingNet_A_Large-Scale_ECCV_2018_paper.pdf)   |    |
 ---
 
 ### github
@@ -82,9 +81,9 @@
 ---
 
 ### survey papers
+- [Handcrafted and Deep Trackers: Recent Visual Object Tracking Approaches and Trends](https://arxiv.org/pdf/1812.07368v2.pdf)
 - [New trends on moving object detection in video images captured by a moving camera: A survey](https://reader.elsevier.com/reader/sd/pii/S1574013716301794?token=1025C68BC2636BA4F529DAFBBBEF5393043D8B67DC64210F1E809EACC8F310920BA5B7D418DA80A354FCFE911473611A)
 - [Computer vision and deep learning techniques for pedestrian detection and tracking: A survey](https://reader.elsevier.com/reader/sd/pii/S092523121830290X?token=B334926B2E5F7148AA75FF41BCB51747397D9846C86906EB5633280A4D7EE156615011443D066D8CA9449C164E1530A9)
-- [TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild](http://openaccess.thecvf.com/content_ECCV_2018/papers/Matthias_Muller_TrackingNet_A_Large-Scale_ECCV_2018_paper.pdf)
 
 ---
 
