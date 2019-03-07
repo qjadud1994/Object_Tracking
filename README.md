@@ -9,5 +9,9 @@
 | [Beyond Pixels: Leveraging Geometry and Shape Cues for Online Multi-Object Tracking](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461018)      |ICRA2018       |
 | [Learning to Track: Online Multi-Object Tracking by Decision Making](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Xiang_Learning_to_Track_ICCV_2015_paper.pdf) | ICCV2015 |
 | [Online Multi-Object Tracking Using Joint Domain Information in Traffic Scenarios](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8621602) |  IEEE Transactions on Intelligent Transportation Systems 2019 |
+| [Mono-Camera 3D Multi-Object Tracking Using Deep Learning Detections and PMBM Filtering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8500454) |  2018 IEEE Intelligent Vehicles Symposium | 2018 IEEE Intelligent Vehicles Symposium |
+| [A Lightweight Online Multiple Object Vehicle Tracking Method](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8500386) | 2018 IEEE Intelligent Vehicles Symposium |
+| [Multi-class Multi-object Tracking Using Changing Point Detection](https://link.springer.com/content/pdf/10.1007%2F978-3-319-48881-3_6.pdf) | ECCV2016 |
+| [Learning Optimal Parameters For Multi-target Tracking](https://www.ics.uci.edu/~fowlkes/papers/wf-multitarget-bmvc2015.pdf) | BMVC2015 | [End-to-end Learning of Multi-sensor 3D Tracking by Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8462884) | ICRA2018 |
 
 
