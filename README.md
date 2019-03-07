@@ -3,8 +3,8 @@
 ### Datasets
 |       Dataset        | Description                                       |
 |--------------------|--------------------------------------------------|
-| [KITTI Tracking Benchmark](http://www.cvlibs.net/datasets/kitti/index.php)  | Multi-object tracking dataset, taken from a moving vehicle with the viewpoint of the tracker   |
-| [MOTChallenge](https://motchallenge.net/)  | Multi-pedestrian tracking dataset captured from surveillance cameras   |
+| [KITTI Tracking](http://www.cvlibs.net/datasets/kitti/index.php)  | Multi-object tracking dataset, taken from a moving vehicle with the viewpoint of the tracker   |
+| [MOT Challenge](https://motchallenge.net/)  | Multi-pedestrian tracking dataset captured from surveillance cameras   |
 | [DETRAC](https://detrac-db.rit.albany.edu/)  | challenging real-world multi-object detection and multi-object tracking benchmark   |
 | [CAVIAR](http://groups.inf.ed.ac.uk/vision/CAVIAR/CAVIARDATA1/)  | A number of video clips recorded acting out the different scenarios   |
 | [TUD Datasets](https://www.d2.mpi-inf.mpg.de/node/428)  | Includes "TUD Multiview Pedestrians" and "TUD Stadtmitte" Sequences   |
