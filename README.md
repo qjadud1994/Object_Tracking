@@ -27,6 +27,6 @@
 |  |  |
 |  | from MOT |
 | [Multi-Object Tracking with Multiple Cues and Switcher-Aware Classification](https://arxiv.org/pdf/1901.06129.pdf) |    |
-| 
+| [Online Multi-Object Tracking with Dual Matching Attention Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ji_Zhu_Online_Multi-Object_Tracking_ECCV_2018_paper.pdf) | ECCV2018 |
 
 
