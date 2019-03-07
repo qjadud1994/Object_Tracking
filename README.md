@@ -45,7 +45,7 @@
 | []()   |   |
 | []()   |   |
 
-#### Evaluation Measurews
+#### Evaluation Measures
 |    Measure     | Perfect    |  Description |
 |----------------|------------| ------------ |
 |  Avg Rank | 1 | 	This is the rank of each tracker averaged over all present evaluation measures. |
