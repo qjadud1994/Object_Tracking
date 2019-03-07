@@ -121,5 +121,8 @@
 | Frag  | 0   | The total number of times a trajectory is fragmented (i.e. interrupted during tracking).  |
 | Hz  | Inf   | Processing speed (in frames per second excluding the detector) on the benchmark.  |
 
+---
 
+### Dataset summary
+- [Analyze KITTI, MOT, DETRAC dataset](https://docs.google.com/presentation/d/1T6pff5ip1MMUdzsIwFuVI5IRbvF-b9Yyi_tonNFo8EM/edit?usp=sharing)
 
