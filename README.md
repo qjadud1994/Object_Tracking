@@ -15,7 +15,29 @@
 
 ---
 
-### Paper
+### Recent Papers
+
+|       Paper        |Description                                       |
+|--------------------|--------------------------------------------------|
+|  [Features for Multi-Target Multi-Camera Tracking and Re-Identification](https://arxiv.org/pdf/1803.10859.pdf)   |  CVPR2018  |
+|  [Online Multi-Object Tracking with Dual Matching Attention Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ji_Zhu_Online_Multi-Object_Tracking_ECCV_2018_paper.pdf)   | ECCV2018   |
+|  [Collaborative Deep Reinforcement Learning for Multi-Object Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Collaborative_Deep_Reinforcement_ECCV_2018_paper.pdf)   | ECCV2018   |
+|  [Multi-object Tracking with Neural Gating Using Bilinear LSTM](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chanho_Kim_Multi-object_Tracking_with_ECCV_2018_paper.pdf)   |  ECCV2018  |
+|  [Art Track: Articulated Multi-Person Tracking in the Wild](https://arxiv.org/pdf/1612.01465.pdf)   | CVPR2017   |
+|  [Deep Network Flow for Multi-Object Tracking(http://openaccess.thecvf.com/content_cvpr_2017/papers/Schulter_Deep_Network_Flow_CVPR_2017_paper.pdf)   |  CVPR2017  |
+|  [Multi-Object Tracking with Quadruplet Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Son_Multi-Object_Tracking_With_CVPR_2017_paper.pdf)   | CVPR2017   |
+|  [Tracking The Untrackable: Learning To Track Multiple Cues with Long-Term Dependencies](https://arxiv.org/pdf/1701.01909.pdf)   | ICCV2017   |
+|  [Non-Markovian Globally Consistent Multi-Object Tracking ](http://openaccess.thecvf.com/content_ICCV_2017/papers/Maksai_Non-Markovian_Globally_Consistent_ICCV_2017_paper.pdf)   | ICCV2017   |
+|  [Detect to Track and Track to Detect](http://openaccess.thecvf.com/content_ICCV_2017/papers/Feichtenhofer_Detect_to_Track_ICCV_2017_paper.pdf)   |  ICCV2017  |
+|  [Online Multi-Object Tracking Using CNN-Based Single Object Tracker With Spatial-Temporal Attention Mechanism](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chu_Online_Multi-Object_Tracking_ICCV_2017_paper.pdf)   | ICCV2017   |
+|  []()   |    |
+|  []()   |    |
+|  []()   |    |
+
+
+---
+
+### Papers from dataset site
 
 |       Paper        |Description                                       |
 |--------------------|--------------------------------------------------|
