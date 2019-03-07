@@ -60,7 +60,19 @@
 |  [Online Multi-target Tracking with Strong and Weak Detections](https://link.springer.com/content/pdf/10.1007%2F978-3-319-48881-3_7.pdf)  | ECCV2016  |
 |  [Development of a N-type GM-PHD filter for multiple target, multiple type visual tracking](https://reader.elsevier.com/reader/sd/pii/S1047320319300343?token=7E70DED31B1AA73791A408ACA6B244B1473C18DBFDD269496685F6EAFF66F2A20FD7AA995AE5FB1AEBA2F850A50DC15D)  | AVSS2017   |
 | [Sequential Sensor Fusion Combining Probability Hypothesis Density and Kernelized Correlation Filters for Multi-Object Tracking in Video Data](http://elvera.nue.tu-berlin.de/files/1515Kutschbach2017.pdf)   | AVSS2017  |
-
+|  |  |
+|  |  |
+|  |  |
+|  | from arxiv |
+|  [Non-rigid Object Tracking via Deep Multi-scale Spatial-temporal Discriminative Saliency Maps](https://arxiv.org/pdf/1802.07957v2.pdf)  |    |
+|  [End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning](https://arxiv.org/pdf/1808.03405v2.pdf)   |    |
+|  [Handcrafted and Deep Trackers: Recent Visual Object Tracking Approaches and Trends](https://arxiv.org/pdf/1812.07368v2.pdf)   |    |
+|  [TrackNet: Simultaneous Object Detection and Tracking and Its Application in Traffic Video Analysis](https://arxiv.org/pdf/1902.01466v1.pdf)   |    |
+|  [MOANA: An Online Learned Adaptive Appearance Model for Robust Multiple Object Tracking in 3D](https://arxiv.org/ftp/arxiv/papers/1901/1901.02626.pdf)   |    |
+|  [Fast CNN-Based Object Tracking Using Localization Layers and Deep Features Interpolation](https://arxiv.org/ftp/arxiv/papers/1901/1901.02620.pdf)   |    |
+|  [Long-Term Visual Object Tracking Benchmark](https://arxiv.org/pdf/1712.01358v4.pdf)   |    |
+|  [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://arxiv.org/pdf/1812.05050v1.pdf)   |    |
+|  []()   |    |
 ---
 
 ### Evaluation Measures
