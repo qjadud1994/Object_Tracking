@@ -13,6 +13,8 @@
 | [ETHZ Sequences](https://data.vision.ee.ethz.ch/cvl/aess/dataset/)  | Inner city sequences captured by mobile platforms   |
 | [PSU-HUB Sequences](http://vision.cse.psu.edu/data/data.shtml)  | Multi-pedetrian tracking videos captured in the PSU student union building   |
 
+---
+
 ### Paper
 
 |       Paper        |Description                                       |
@@ -58,6 +60,8 @@
 |  [Online Multi-target Tracking with Strong and Weak Detections](https://link.springer.com/content/pdf/10.1007%2F978-3-319-48881-3_7.pdf)  | ECCV2016  |
 |  [Development of a N-type GM-PHD filter for multiple target, multiple type visual tracking](https://reader.elsevier.com/reader/sd/pii/S1047320319300343?token=7E70DED31B1AA73791A408ACA6B244B1473C18DBFDD269496685F6EAFF66F2A20FD7AA995AE5FB1AEBA2F850A50DC15D)  | AVSS2017   |
 | [Sequential Sensor Fusion Combining Probability Hypothesis Density and Kernelized Correlation Filters for Multi-Object Tracking in Video Data](http://elvera.nue.tu-berlin.de/files/1515Kutschbach2017.pdf)   | AVSS2017  |
+
+---
 
 ### Evaluation Measures
 |    Measure     | Perfect    |  Description |
