@@ -75,6 +75,19 @@
 |  []()   |    |
 ---
 
+### github
+- [multi-object-tracking-paper-list](https://github.com/SpyderXu/multi-object-tracking-paper-list.git)
+- [Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection.git)
+
+---
+
+### survey papers
+- [New trends on moving object detection in video images captured by a moving camera: A survey](https://reader.elsevier.com/reader/sd/pii/S1574013716301794?token=1025C68BC2636BA4F529DAFBBBEF5393043D8B67DC64210F1E809EACC8F310920BA5B7D418DA80A354FCFE911473611A)
+- [Computer vision and deep learning techniques for pedestrian detection and tracking: A survey](https://reader.elsevier.com/reader/sd/pii/S092523121830290X?token=B334926B2E5F7148AA75FF41BCB51747397D9846C86906EB5633280A4D7EE156615011443D066D8CA9449C164E1530A9)
+- [TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild](http://openaccess.thecvf.com/content_ECCV_2018/papers/Matthias_Muller_TrackingNet_A_Large-Scale_ECCV_2018_paper.pdf)
+
+---
+
 ### Evaluation Measures
 |    Measure     | Perfect    |  Description |
 |----------------|------------| ------------ |
