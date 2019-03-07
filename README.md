@@ -28,5 +28,21 @@
 |  | from MOT |
 | [Multi-Object Tracking with Multiple Cues and Switcher-Aware Classification](https://arxiv.org/pdf/1901.06129.pdf) |    |
 | [Online Multi-Object Tracking with Dual Matching Attention Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ji_Zhu_Online_Multi-Object_Tracking_ECCV_2018_paper.pdf) | ECCV2018 |
-
-
+| [Fusion of Head and Full-Body Detectors for Multi-Object Tracking](https://arxiv.org/pdf/1705.08314.pdf)  | CVRPW2018 |
+|  [Motion Segmentation & Multiple Object Tracking by Correlation Co-Clustering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8493320)  | IEEE Transactions on Pattern Analysis and Machine Intelligence  |
+|  [Real-time Multiple People Tracking with Deeply Learned Candidate Selection and Person Re-Identification](https://arxiv.org/pdf/1809.04427.pdf)  | ICME2018  |
+|  [Multiple Hypothesis Tracking Revisited](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kim_Multiple_Hypothesis_Tracking_ICCV_2015_paper.pdf)  | ICCV2015  |
+|  [Iterative Multiple Hypothesis Tracking with Tracklet-level Association](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8533372)  | IEEE Transactions on Circuits and Systems for Video Technology  |
+|  [Multitarget Tracking Algorithm Using Multiple GMPHD Filter Data Fusion for Sonar Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6210553/pdf/sensors-18-03193.pdf)  | sensors 2018   |
+|  [Online Multi-Object Tracking with Historical Appearance Matching and Scene Adaptive Detection Filtering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8639078)  | AVSS2018  |
+|  [Particle PHD Filter Based Multiple Human Tracking Using Online Group-Structured Dictionary Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8318585)  | IEEE Access  |
+|  [Multi-object Tracking with Neural Gating Using Bilinear LSTM](https://web.engr.oregonstate.edu/~lif/1925.pdf)  | ECCV2018  |
+|  [High-Speed Tracking-by-Detection Without Using Image Information](http://elvera.nue.tu-berlin.de/files/1517Bochinski2017.pdf)  | AVSS2017  |
+|  [Multiple Object Tracking via Feature Pyramid Siamese Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8587153)  |  IEEE Acecess 2018 |
+|  [Online Multi-target Tracking with Strong and Weak Detections](https://link.springer.com/content/pdf/10.1007%2F978-3-319-48881-3_7.pdf)  | ECCV2016  |
+|  [Development of a N-type GM-PHD filter for multiple target, multiple type visual tracking](https://reader.elsevier.com/reader/sd/pii/S1047320319300343?token=7E70DED31B1AA73791A408ACA6B244B1473C18DBFDD269496685F6EAFF66F2A20FD7AA995AE5FB1AEBA2F850A50DC15D)  | AVSS2017   |
+| [Sequential Sensor Fusion Combining Probability Hypothesis Density and Kernelized Correlation Filters for Multi-Object Tracking in Video Data](http://elvera.nue.tu-berlin.de/files/1515Kutschbach2017.pdf)   | AVSS2017  |
+| []()   |   |
+| []()   |   |
+| []()   |   |
+| []()   |   |
