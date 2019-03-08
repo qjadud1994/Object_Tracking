@@ -1,4 +1,4 @@
-# Dataset annotation visualizing code
+# Dataset annotations visualizing code
 
 ### visualize_KITTI.py
 - draw gt annotations(bounding boxes) from KITTI dataset
