@@ -1,11 +1,16 @@
 # One Stage Detector
 
 
-### Network implementation from github
+### Pytorch implementation from github
+
 [YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3.git)
+
 [YOLOv2](https://github.com/marvis/pytorch-yolo2.git)
+
 [SSD](https://github.com/amdegroot/ssd.pytorch.git)
+
 [RetinaNet](https://github.com/kuangliu/pytorch-retinanet.git)
+
 
 ### Compare
 
