@@ -59,6 +59,11 @@
 | SSD | SSD 300  |  1080 | 46 | 77.2 | 41.2 |
 | SSD | SSD 500  |  1080 | 19 | 79.8 | 46.5 |
 |  |  |  |  |  |
+| RetinaNet | ResNet-50-416  |  1080   | 14 | - | - |
 | RetinaNet | ResNet-50-500  |  1080   | 14 | - | 50.9 |
-| RetinaNet | ResNet-101-500  |  1080   | 11 | - | 53.1 |
-| RetinaNet | ResNet-101-800  |  1080   | 5 | - | 57.5 |
+| RetinaNet | ResNet-50-608  |  1080   | 14 | - | - |
+| RetinaNet | ResNet-50-800  |  1080   | 14 | - | - |
+| RetinaNet | ResNet-50-1024  |  1080   | 14 | - | - |
+| RetinaNet | ResNet-50-1024  |  1080   | 14 | - | - |
+| RetinaNet | ResNet-101-500  |  1080   | - | - | 53.1 |
+| RetinaNet | ResNet-101-800  |  1080   | - | - | 57.5 |
