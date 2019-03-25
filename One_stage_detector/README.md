@@ -47,11 +47,15 @@
 | YOLOv3 | DarkNet 53, spp(?)  |  1080   | - | - | 60.6 |
 | YOLOv3 | DarkNet tiny  |  1080   | - | - | 33.1 |
 |  |  |  |  |  |
-| YOLOv2 | DarkNet 19, 608x608  |  1080 | 40  | 78.6 | 48.1 |
-| YOLOv2 | DarkNet 19, 480x480  |  1080 | 59  |  77.8 | - |
-| YOLOv2 | DarkNet 19, 416x416  |  1080 | 67  | 76.8 | - |
-| YOLOv2 | DarkNet 19, 352x352  |  1080 | 81  | 73.7 | - |
-| YOLOv2 | DarkNet 19, 288x288  |  1080 | 91  | 69.0 | - |
+
+| YOLOv2 | DarkNet 19, 352x352  |  1080 | 84  | 73.7 | - |
+| YOLOv2 | DarkNet 19, 416x416  |  1080 | 72  | 76.8 | - |
+| YOLOv2 | DarkNet 19, 480x480  |  1080 | 62  |  77.8 | - |
+| YOLOv2 | DarkNet 19, 608x608  |  1080 | 37  | 78.6 | 48.1 |
+| YOLOv2 | DarkNet 19, 800x800  |  1080 | 24  | - | - |
+| YOLOv2 | DarkNet 19, 1024x1024  |  1080 | 16  | - | - |
+| YOLOv2 | DarkNet 19, 1280x1280  |  1080 | 9  | - | - |
+
 | YOLOv2 | DarkNet tiny  |  1080 | 244 | - | 23.7 |
 |  |  |  |  |  |
 | SSD | SSD 300  |  1080 | 46 | 77.2 | 41.2 |
