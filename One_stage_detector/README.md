@@ -9,7 +9,7 @@
 - [RetinaNet](https://github.com/kuangliu/pytorch-retinanet.git)
 
 
-### Compare
+### Compare get from paper
 
 | Network | Detail  | GPU   | FPS    | VOC mAP  | COCO mAP |
 | :-----: | :----:  | :---: | :---:  | :------: | :------: |
@@ -32,3 +32,31 @@
 | RetinaNet | ResNet-50-500  |  M40   | 14 | - | 50.9 |
 | RetinaNet | ResNet-101-500  |  M40   | 11 | - | 53.1 |
 | RetinaNet | ResNet-101-800  |  M40   | 5 | - | 57.5 |
+
+
+### Compare using GTX-1080
+
+| Network | Detail  | GPU   | FPS    | VOC mAP  | COCO mAP |
+| :-----: | :----:  | :---: | :---:  | :------: | :------: |
+| YOLOv3 | DarkNet 53, 320x320  |  1080   | 58 | - | 51.5 |
+| YOLOv3 | DarkNet 53, 416x416  |  1080   | 49 | - | 55.3 |
+| YOLOv3 | DarkNet 53, 608x608  |  1080   | 28 | - | 57.9 |
+| YOLOv3 | DarkNet 53, 800x800  |  1080   | 19 | - | - |
+| YOLOv3 | DarkNet 53, 1024x1024  |  1080   | 13 | - | - |
+| YOLOv3 | DarkNet 53, 1280x1280  |  1080   | 9 | - | - |
+| YOLOv3 | DarkNet 53, spp(?)  |  1080   | - | - | 60.6 |
+| YOLOv3 | DarkNet tiny  |  1080   | - | - | 33.1 |
+|  |  |  |  |  |
+| YOLOv2 | DarkNet 19, 608x608  |  1080 | 40  | 78.6 | 48.1 |
+| YOLOv2 | DarkNet 19, 480x480  |  1080 | 59  |  77.8 | - |
+| YOLOv2 | DarkNet 19, 416x416  |  1080 | 67  | 76.8 | - |
+| YOLOv2 | DarkNet 19, 352x352  |  1080 | 81  | 73.7 | - |
+| YOLOv2 | DarkNet 19, 288x288  |  1080 | 91  | 69.0 | - |
+| YOLOv2 | DarkNet tiny  |  1080 | 244 | - | 23.7 |
+|  |  |  |  |  |
+| SSD | SSD 300  |  1080 | 46 | 77.2 | 41.2 |
+| SSD | SSD 500  |  1080 | 19 | 79.8 | 46.5 |
+|  |  |  |  |  |
+| RetinaNet | ResNet-50-500  |  1080   | 14 | - | 50.9 |
+| RetinaNet | ResNet-101-500  |  1080   | 11 | - | 53.1 |
+| RetinaNet | ResNet-101-800  |  1080   | 5 | - | 57.5 |
