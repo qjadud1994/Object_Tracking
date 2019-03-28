@@ -34,7 +34,7 @@
 | RetinaNet | ResNet-101-800  |  M40   | 5 | - | 57.5 |
 
 
-### Compare using GTX-1080
+### Compare using Local GPU
 
 | Network | Detail  | GPU   | FPS    | VOC mAP  | COCO mAP |
 | :-----: | :----:  | :---: | :---:  | :------: | :------: |
