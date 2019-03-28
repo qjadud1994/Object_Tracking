@@ -1,5 +1,6 @@
 # One Stage Detector
 
+### [Summary of One-Stage Detector](https://docs.google.com/presentation/d/1nLizfMSZstHXsIAM4rWPXE0j7mRW9PCUnEXFQ6g1Suk/edit?usp=sharing)
 
 ### Pytorch implementation from github
 
