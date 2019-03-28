@@ -59,11 +59,9 @@
 | SSD | SSD 300  |  Titan XP | 43 | 77.2 | 41.2 |
 | SSD | SSD 500  |  Titan XP | 17 | 79.8 | 46.5 |
 |  |  |  |  |  |
-| RetinaNet | ResNet-50-416  |  1080   | 14 | - | - |
-| RetinaNet | ResNet-50-500  |  1080   | 14 | - | 50.9 |
-| RetinaNet | ResNet-50-608  |  1080   | 14 | - | - |
-| RetinaNet | ResNet-50-800  |  1080   | 14 | - | - |
-| RetinaNet | ResNet-50-1024  |  1080   | 14 | - | - |
-| RetinaNet | ResNet-50-1024  |  1080   | 14 | - | - |
-| RetinaNet | ResNet-101-500  |  1080   | - | - | 53.1 |
-| RetinaNet | ResNet-101-800  |  1080   | - | - | 57.5 |
+| RetinaNet | ResNet-50-400  |  Titan XP   | 19 | - | - |
+| RetinaNet | ResNet-50-500  |  Titan XP   | 14 | - | 50.9 |
+| RetinaNet | ResNet-50-600  |  Titan XP   | 10 | - | - |
+| RetinaNet | ResNet-50-800  |  Titan XP   | 6 | - | - |
+| RetinaNet | ResNet-50-1000  |  Titan XP   | 4 | - | - |
+| RetinaNet | ResNet-50-1200  |  Titan XP   | 3 | - | - |
