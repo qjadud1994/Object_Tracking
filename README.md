@@ -19,6 +19,13 @@
 
 |       Paper        |Description                                       |
 |--------------------|--------------------------------------------------|
+| [Eliminating Exposure Bias and Loss-Evaluation Mismatch in Multiple Object Tracking](https://arxiv.org/pdf/1811.10984.pdf)   |   CVPR2019  |
+| [MOTS: Multi-Object Tracking and Segmentation ](https://arxiv.org/pdf/1902.03604.pdf)   |   CVPR2019  |
+| [Multiple People Tracking using Body and Joint Detections](http://openaccess.thecvf.com/content_CVPRW_2019/papers/BMTT/Henschel_Multiple_People_Tracking_Using_Body_and_Joint_Detections_CVPRW_2019_paper.pdf)   |   CVPRW2019  |
+| [Multi-Object Tracking with Multiple Cues and Switcher-Aware Classification](https://arxiv.org/pdf/1901.06129.pdf)   |   arxiv 2019  |
+| [FAMNet: Joint Learning of Feature, Affinity and Multi-dimensional Assignment for Online Multiple Object Tracking](https://arxiv.org/pdf/1904.04989.pdf)   |   arxiv 2019  |
+| [Exploit the Connectivity: Multi-Object Tracking with TrackletNet](https://arxiv.org/pdf/1811.07258.pdf)   |   arxiv 2019  |
+|   |     |
 |  [Features for Multi-Target Multi-Camera Tracking and Re-Identification](https://arxiv.org/pdf/1803.10859.pdf)   |  CVPR2018  |
 |  [Online Multi-Object Tracking with Dual Matching Attention Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ji_Zhu_Online_Multi-Object_Tracking_ECCV_2018_paper.pdf)   | ECCV2018   |
 |  [Collaborative Deep Reinforcement Learning for Multi-Object Tracking](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liangliang_Ren_Collaborative_Deep_Reinforcement_ECCV_2018_paper.pdf)   | ECCV2018   |
